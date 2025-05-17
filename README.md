@@ -1,0 +1,2 @@
+- Day 5:
+-  Power BI Slicer and Pie Chart, Advanced VBA for Data Export, Data Validation, Excel Tables, Power BI Drill-Down, SQL Concepts (Theory)
