@@ -1,6 +1,8 @@
 DAY 1 & 2 
 Excel Practice for Data Analytics
 VLOOKUP, XLOOKUP, IF, COUNTIF
+day3 & 4
+Conditional Formatting, Slicers, Power BI Intro
 SUMIF, AVERAGEIF, Pivot Tables DAY 3 Filters, Charts, Power Query, VBA
 Day 5:
 Power BI Slicer and Pie Chart, Advanced VBA for Data Export, Data Validation, Excel Tables, Power BI Drill-Down, SQL Concepts (Theory)
