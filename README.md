@@ -12,3 +12,5 @@ Day 7 tasks:
 SQL Joins, Power BI Calculated Column, Python with pandas, Mini-Project
 Day 8 tasks: 
 Python Visualization with matplotlib, Comprehensive Dashboard (Sales Growth DAX pending)
+Day 9 tasks:
+SQL Subqueries and CTEs, Python Data Cleaning, Summary Report
