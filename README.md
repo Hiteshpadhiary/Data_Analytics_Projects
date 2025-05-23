@@ -14,3 +14,5 @@ Day 8 tasks:
 Python Visualization with matplotlib, Comprehensive Dashboard (Sales Growth DAX pending)
 Day 9 tasks:
 SQL Subqueries and CTEs, Python Data Cleaning, Summary Report
+Day 10 tasks:
+Statistical Analysis in Excel, Tableau Dashboard, Advanced pandas Merge, Statistical Summary Report
