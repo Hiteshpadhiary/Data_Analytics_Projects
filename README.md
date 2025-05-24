@@ -16,3 +16,5 @@ Day 9 tasks:
 SQL Subqueries and CTEs, Python Data Cleaning, Summary Report
 Day 10 tasks:
 Statistical Analysis in Excel, Tableau Dashboard, Advanced pandas Merge, Statistical Summary Report
+Day 11 tasks:
+KPI Analysis (Sales Growth, Profit Margin), seaborn Heatmap, End-to-End Sales Analysis (SQL, Python, Excel)
