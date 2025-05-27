@@ -18,6 +18,8 @@ Day 10 tasks:
 Statistical Analysis in Excel, Tableau Dashboard, Advanced pandas Merge, Statistical Summary Report
 Day 11 tasks:
 KPI Analysis (Sales Growth, Profit Margin), seaborn Heatmap, End-to-End Sales Analysis (SQL, Python, Excel)
+
+E-commerce Projects
 Day 12 tasks:
 E-commerce KPI Analysis (AOV, Retention Rate), RFM Analysis with Python, Excel Sales Dashboard
 Day 13 tasks:
