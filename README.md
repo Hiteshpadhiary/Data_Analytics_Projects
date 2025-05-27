@@ -20,3 +20,5 @@ Day 11 tasks:
 KPI Analysis (Sales Growth, Profit Margin), seaborn Heatmap, End-to-End Sales Analysis (SQL, Python, Excel)
 Day 12 tasks:
 E-commerce KPI Analysis (AOV, Retention Rate), RFM Analysis with Python, Excel Sales Dashboard
+Day 13 tasks:
+E-commerce Funnel Analysis, Cohort Analysis with SQL, Customer Segmentation Report
