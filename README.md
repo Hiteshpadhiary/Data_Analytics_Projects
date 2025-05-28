@@ -26,3 +26,4 @@ Day 13 tasks:
 E-commerce Funnel Analysis, Cohort Analysis with SQL, Customer Segmentation Report
 Day 14 tasks:
 E-commerce A/B Testing Analysis, Inventory Turnover Analysis, Power BI Sales Dashboard
+Project Description:- A/B Testing: Compared discount vs. free shipping campaigns
