@@ -24,3 +24,5 @@ Day 12 tasks:
 E-commerce KPI Analysis (AOV, Retention Rate), RFM Analysis with Python, Excel Sales Dashboard
 Day 13 tasks:
 E-commerce Funnel Analysis, Cohort Analysis with SQL, Customer Segmentation Report
+Day 14 tasks:
+E-commerce A/B Testing Analysis, Inventory Turnover Analysis, Power BI Sales Dashboard
