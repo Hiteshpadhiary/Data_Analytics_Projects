@@ -27,3 +27,15 @@ E-commerce Funnel Analysis, Cohort Analysis with SQL, Customer Segmentation Repo
 Day 14 tasks:
 E-commerce A/B Testing Analysis, Inventory Turnover Analysis, Power BI Sales Dashboard
 Project Description:- A/B Testing: Compared discount vs. free shipping campaigns
+Day 15 tasks:
+E-commerce Customer Churn Analysis, Sales Forecasting, Returns Analysis Report
+Project Description:-
+Customer Churn Analysis: Identified at-risk customers using Python, helping to inform retention strategies.
+Sales Forecasting: Predicted future sales for Oct-Dec 2024 using Excel’s FORECAST function.
+Returns Analysis: Analyzed return rates by product category to identify quality issues.
+
+
+
+
+
+
