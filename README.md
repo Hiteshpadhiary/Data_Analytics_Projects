@@ -33,8 +33,8 @@ Project Description:-
 Customer Churn Analysis: Identified at-risk customers using Python, helping to inform retention strategies.
 Sales Forecasting: Predicted future sales for Oct-Dec 2024 using Excel’s FORECAST function.
 Returns Analysis: Analyzed return rates by product category to identify quality issues.
-
-
+Day 16 tasks:
+E-commerce CLV Analysis, Customer Feedback Analysis Report
 
 
 
