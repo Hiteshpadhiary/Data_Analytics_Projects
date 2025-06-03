@@ -37,7 +37,8 @@ Day 16 tasks:
 E-commerce CLV Analysis, Customer Feedback Analysis Report.
 Day 17 tasks:
 E-commerce Profit Margin Analysis, Customer Segmentation Report.
-
+Day 18 tasks: 
+E-commerce Inventory Turnover Analysis, Discount Impact Analysis Report
 
 
 
